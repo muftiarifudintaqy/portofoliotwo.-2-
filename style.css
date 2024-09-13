@@ -9,6 +9,7 @@
 }
 
 :root{
+    background-image: url(img/duar.png);
     --body-color : rgba(250,250,250);
     --color-white: rgba(250,250,250);
     --text-color-second: rgba(38,37,37);
